@@ -1,0 +1,7 @@
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\bin\Debug\Ödev 1.exe.config
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\bin\Debug\Ödev 1.exe
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\bin\Debug\Ödev 1.pdb
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\obj\Debug\Ödev 1.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\obj\Debug\Ödev 1.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\obj\Debug\Ödev 1.exe
+C:\Users\yigit\OneDrive\Desktop\C#\Ödev 1\obj\Debug\Ödev 1.pdb
